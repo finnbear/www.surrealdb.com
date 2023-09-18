@@ -1,1 +1,1 @@
-SELECT * FROM 0.3dec + 0.3dec + 0.3dec + 0.1dec;
+RETURN 0.3dec + 0.3dec + 0.3dec + 0.1dec;
